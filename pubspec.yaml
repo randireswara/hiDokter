@@ -1,0 +1,43 @@
+name: hi_dokter
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment: 
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies: 
+  cupertino_icons: ^1.0.2
+  get: 4.6.5
+  google_fonts: 4.0.3
+  liquid_swipe: 3.1.0
+  smooth_page_indicator: 1.0.1
+  flutter_otp_text_field: 1.1.1
+  firebase_core: 2.11.0
+  firebase_auth: 4.4.0
+  cloud_firestore: 4.5.0
+  intl: 0.17.0
+  date_picker_timeline: 1.2.3
+  table_calendar: ^3.0.8
+  flutter_native_timezone: ^2.0.0
+  flutter_staggered_animations: ^1.1.1
+  flutter_local_notifications: ^14.0.0
+  timezone: 0.9.2
+  lottie: 2.3.2
+  image_picker: 0.8.3+2
+  firebase_storage: 11.1.2
+  flutter: 
+    sdk: flutter
+  cached_network_image: ^3.2.3
+
+dev_dependencies: 
+  flutter_lints: 2.0.1
+  flutter_test: 
+    sdk: flutter
+
+flutter: 
+  assets: 
+    - assets/images/logo_hidoc.png
+    - assets/images/
+    - assets/lottie/
+  uses-material-design: true
+

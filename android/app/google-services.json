@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "37135103788",
+    "project_id": "haidokter-3dce7",
+    "storage_bucket": "haidokter-3dce7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:37135103788:android:144e40e27354bdb7685e89",
+        "android_client_info": {
+          "package_name": "com.hidokter.hi_dokter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "37135103788-qtou0r0cvcs5vfed0eiqq5hlssgb8u37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2JGf9ZlYR7TebhFssq4DpQsCI5anC_6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "37135103788-qtou0r0cvcs5vfed0eiqq5hlssgb8u37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
